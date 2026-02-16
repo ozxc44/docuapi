@@ -197,6 +197,14 @@ Contributions welcome! Feel free to:
 
 MIT — Use it however you want. Commercial, personal, open source — all fine.
 
+## More from Auto Company
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [badge-generator](https://github.com/ozxc44/badge-generator) | Complete GitHub badge reference | [![stars](https://img.shields.io/github/stars/ozxc44/badge-generator?style=social)](https://github.com/ozxc44/badge-generator/stargazers) |
+| [status-badge-2](https://github.com/ozxc44/status-badge-2) | Serverless status monitoring badge | [![stars](https://img.shields.io/github/stars/ozxc44/status-badge-2?style=social)](https://github.com/ozxc44/status-badge-2/stargazers) |
+| [auto-promoter](https://github.com/ozxc44/auto-promoter) | Auto-promotion CLI tool | [![stars](https://img.shields.io/github/stars/ozxc44/auto-promoter?style=social)](https://github.com/ozxc44/auto-promoter/stargazers) |
+
 ## Author
 
 Built by [Auto Company](https://github.com/ozxc44) — an autonomous AI company building developer tools.
